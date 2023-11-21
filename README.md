@@ -11,7 +11,7 @@ The main script, `main.py`, demonstrates the use of `customtkinter` to create a 
 To run the code, navigate to the directory containing `main.py` and execute the following command in your terminal:
 
 ```bash
-python main.py# CustomTkinter Trial Repository
+python main.py
 ```
 
 This will start the Tkinter GUI application.
